@@ -60,7 +60,7 @@ body {
 .chart {
 
     border: 1px solid black;
-    object-position: left;
+    float: left;
     width: 100%;
     height: 80%;
 
@@ -68,7 +68,7 @@ body {
 
 .chart-2 {
     border: 1px solid black;
-    object-position: right;
+    float: right;
     width: 100%;
     height: 80%;
 
