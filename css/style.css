@@ -1,0 +1,122 @@
+/* --------- Global style */
+
+body {
+    background-color: blanchedalmond;
+    font-family: "arial", sans-serif;
+    color: #445361;
+    text-align: left;
+}
+
+/* --------- Heading */
+
+.heading {
+    text-align: left;
+    font-size: 4.5rem;
+}
+
+.logo {
+    height: 20%;
+    width: 20%;
+    padding-left: 5px;
+}
+
+/* --------- Stats layout */
+
+.stats-area {
+    background-color: #E6ECF0;
+    box-sizing: border-box;
+    width: 85%;
+    height: 65vh;
+    max-height: 450px;
+    max-width: 830px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
+
+.results-area {
+    width: 50%;
+    font-size: 2rem;
+    margin: auto;
+    padding: 50px 0;
+}
+
+
+
+/* --------- Buttons */
+
+.btn {
+    width: 250px;
+    height: 100px;
+    font-family: "Arial", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.2px;
+    color: white;
+   object-position: center;
+}
+
+/* --------------- Images */
+
+.chart {
+
+    border: 1px solid black;
+    object-position: left;
+    width: 100%;
+    height: 80%;
+
+}
+
+.chart-2 {
+    border: 1px solid black;
+    object-position: right;
+    width: 100%;
+    height: 80%;
+
+
+}
+
+
+/* --------- Media queries */
+
+@media (max-width: 414px) {
+    .controls-area {
+        width: 100%;
+    }
+
+    
+
+    .stats-area {
+        padding: 10% 0;
+        width: 100%;
+    }
+
+    .stats-area span {
+        padding: 0;
+    }
+
+
+    .results-area {
+        width: 100%;
+    }
+
+    .results-area {
+        margin: 0.5em auto;
+        display: block;
+        padding: 5px;
+    }
+
+    .heading {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 320px) {
+    .stats-area {
+        height: 70vh;
+    }
+
+    .results-area {
+        width: 75%;
+        margin: 10px auto;    
+    }                               
+                
