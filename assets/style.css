@@ -37,8 +37,9 @@ body {
 .results-area {
     width: 50%;
     font-size: 2rem;
-    margin: auto;
+    border-left-width: 5px;
     padding: 20px 0;
+    
 }
 
 
@@ -46,12 +47,13 @@ body {
 /* --------- Buttons */
 
 .btn {
-    width: 15%;
-    height: 15%;
-    font-family: "Arial", sans-serif;
+    width: 25%;
+    height: 25%;
+    font-family: "Arial", sans-serif; 
     text-transform: uppercase;
     letter-spacing: 1.8px;
-    color: black;
+    color: red;
+    
 
 }
 

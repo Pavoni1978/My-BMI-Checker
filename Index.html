@@ -5,8 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/style.css">
-    <link>
-    <script src="assets/script.js"></script>
+    <link rel="script" src="assets/script.js">
     <title>My BMI Checker</title>
 
 </head>
@@ -21,12 +20,10 @@
 
         <fieldset>
             <legend>Your Data Input</legend>
-            <label for="height">Height cm:</label>
-            <input id="height" name="height" type="text" class="text-input" required>
             <label for="weight">Weight kg:</label>
             <input id="weight" name="weight" type="text" class="text-input" required>
-
-            <button class="btn">Get my BMI</button>
+            <label for="height">Height cm:</label>
+            <input id="height" name="height" type="text" class="text-input" required>
 
             <script src="assets/script.js"></script>
 
@@ -34,9 +31,11 @@
 
         <div class="results-area">
 
-            <p class="result">Your BMI <span id="result"><script src="assets/script.js"></script></span></p>
+            <button class="btn">Get my BMI</button>
 
-           
+            <p class="result">Your BMI <span id="result">0</span></p>
+
+            <script src="assets/script.js"></script>
 
         </div>
 
@@ -47,6 +46,7 @@
  
            <img class="chart-2" src="images/images.jpg" alt="chart-2">
 
+           <script src="assets/script.js"></script>
 
 </body>
 
