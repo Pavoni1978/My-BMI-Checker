@@ -1,8 +1,8 @@
 # My BMI Checker
 
-[View the Live Project here](https://pavoni1978.github.io/Role-Model-Dogs/index.html)
+[View the Live Project here] (https://pavoni1978.github.io/My-BMI-Checker/)
 
-This is a website for people to easily calculate their body mass index without the mathematical hassle. A graph is then provided to illistate where you are on the BMI graph. There is a graph for men and women.
+This is a website for people to easily calculate their body mass index without the mathematical hassle. A graph is then provided to illistate where you are on the BMI graph. There is graph for men and women.
 
 ## Table of Contents
 
@@ -11,12 +11,6 @@ This is a website for people to easily calculate their body mass index without t
   + [Colour Scheme](#colour-scheme)
   + [Typography](#typography)
 + [Existing Features](#existing-features)
-  + [Navigation Bar](#navigation-bar)
-  + [About Us](#about-us)
-  + [Training Classes](#training-classes)
-   + [Class Enquiry](#class-enquiry)
-  + [Footer](#footer)
-  + [Dump page](#dump-page)
 + [Technologies Used](#technologies-used)
   + [Languages Used](#languages-used)
 + [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
@@ -32,80 +26,28 @@ This is a website for people to easily calculate their body mass index without t
 + [Acknowledgements](#acknowledgements)
 
 ## Features:
-### UI/UX:
+
 #### **Colour Scheme:**
-- The main colours used are in a grey and white scale. The text is pulled forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website highlighted with a 4px black border. The black text on grey background makes for easy reading on all platforms.
-In the event of creating print media, the previous use of grey and white scale in the “branding” of the Role Model Dogs will be far more cost effective in printing and designing expenses. 
+- The main colours used are in a beige and light grey scale. The text is pulled forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website highlighted with a 2px black border. The black text on light grey background makes for easy reading on all platforms. Hence the main input field and results section is in light grey.
 
 #### **Typography:**
-- The Helvetica font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header also uses Helvetica font with sans-serif as backup. This creates a nice consistancy throughout the site for easy reading on all devices.
-
-[Back to Top](#role-model-dogs)
+- The Arial font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header also uses Arial font with sans-serif as backup. This creates a nice consistancy throughout the site for easy reading on all devices.
 
 ### Existing Features:
-
-#### **Navigation Bar:**
-
-- Featured on all three pages, the full responsive navigation bar includes links to all pages, About Us, Training Classes and Class Enquiry page and is identical in each page to allow for easy navigation.
-Through the navigation bar, the user can easily move around and take full advantage of all the features provided by the website.
-
-![Navigation bar](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/Navigation_b23hcm.png)
-
-
-#### **About Us:**
-
-- The introduction is brief and informative. It emphasises what we offer and what we looking to achieve. It also highlights our qualifications and draws people in to look around at the other pages on offer.
-
-![intro](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763608/About_Us_vjbwkd.png)
-
-
-#### **Training Classes:**
-
-- Information provided to the webpage visitor on the fee per class. 
-- Maximun number of attendees per class.
-- Days and times of training classes offered.
-- The training centre address and parking information.
-- A few house rules that the centre have in place.
-
-![classes](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763607/Training_Classes_isfjb0.png)
-
-**Class Enquiry:**
-
-- This section allows visitors the option to enquire on a set class with their and dogs information. This is carried out through interactive text boxes and a drop down menu to choose a day and time slot. 
-- The form is filled in and submitted. The user is then notified with a confirmation message on a new page. 
-![class enquiry](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/Class_Enquiry_dmd5la.png)
-
-#### **Footer:**
-
-- This section is dedicated to the dog training centre social media links. 
-- The footer section is set to appear continuously throughout the website so that it can be easily accessed at any time.
-
-![Social links](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763589/Footer-media_rtajfu.png)
-
-### **Dump Page:**
-
-- The page response after filling in all text inputs and hitting the Enquiry Submit button.
-
-![Dump Page] (https://res.cloudinary.com/dawzrhuaf/image/upload/v1682764320/Dump-page_hihje4.png)
-
-
-[Back to Top](#role-model-dogs)
-
-## Technologies Used
+An input area for your weight and height, with a button to click "Get My BMI".
+A results area to display "Your BMI"
+Two graphs are provided for men and women to assess your score.
 
 ### **Languages Used:**
 - [HTML5](https://en.wikipedia.org/wiki/HTML5)
 - [CSS3](https://en.wikipedia.org/wiki/CSS)
-
-[Back to Top](#role-model-dogs)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ## Frameworks, Libraries & Programs Used
 
-1. [Font Awesome](https://fontawesome.com/):
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-2. [Git](https://git-scm.com/):
+1. [Git](https://git-scm.com/):
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-3. [GitHub](https://github.com/):
+2. [Codeanywhere]():
     - GitHub is used to store the project's code after being pushed from Git.
 4. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
     - This application was used for visualization of responsiveness.
