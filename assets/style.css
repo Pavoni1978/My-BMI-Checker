@@ -124,9 +124,5 @@ body {
 @media (max-width: 320px) {
     .stats-area {
         height: 70vh;
-    }
-
-    .results-area {
-        width: 75%;
-        margin: 10px auto;    
-    }                               
+    
+    }}
