@@ -1,15 +1,19 @@
-var weight = parseInt (document.getElementById ("weight").value);
+var weight = parseInt (document.getElementById (weight).value);
 
-document.getElementById("weight-val").textContent = weight + "kg";
+document.getElementById(weight-val).textContent = weight + "kg";
 
-var height = parseInt (document.getElementById("height").value);
+var height = parseInt (document.getElementById(height).value);
 
-document.getElementById ("height-val").textContent = height + "cm";
+document.getElementById (height-val).textContent = height + "cm";
 
-var result = (weight / ((height * height)
-/ 10000)).toFixed(2);
+var result = parseInt (document.getElementById (result).value);               
 
-function result (getElementById) (result-value).textContent + get-my-bmi;
+var result = document.getElementsByTagName = (btn).textContent = get-my-bmi;
+ 
+var result = document.getElementsByTagName(result)[1-100].textContent = your-bmi;
+ 
+ (result); {
+     (((weight / ((height * height)
+/10000)).toFixed(2)));
 
-
-
+}
