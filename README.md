@@ -45,67 +45,43 @@ Two graphs are provided for men and women to assess your score.
 
 ## Frameworks, Libraries & Programs Used
 
-1. [Git](https://git-scm.com/):
-    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
-2. [Codeanywhere]():
+1. [Codeanywhere](https://codeanywhere.com/signin):
+    - Codeanywhere was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+2. [GitHub]():
     - GitHub is used to store the project's code after being pushed from Git.
 4. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
     - This application was used for visualization of responsiveness.
    ![Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607183/amiresponsive_mrppyr.png)
-5. [Cloudinary](https://cloudinary.com/):
-    - Cloudinary was used to store and link the images.
-
-[Back to Top](#role-model-dogs)
+5. [Google Images](https://cloudinary.com/):
+    - Google Images was used to download the images to Codeanywhere.
 
 ## Testing
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/W3_html_djyobp.png)
-- [W3C CSS Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/W3_CSS_uxytlu.png)
+- [W3C Markup Validator - Results]()
+- [W3C CSS Validator - Results]()
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
-![Lighthouse](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682763590/lighthouse_kahs46.png)
+![Lighthouse]()
 
-
-[Back to Top](#role-model-dogs)
-
-#### **Manual Testing:**
-|  Feature | Expectation | Action | Result|
-|-------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------|
-| **Navigation Menu** | The page will open when clicked | Click menu links | Taken to selected page |
-| **Social link icons** | To go to external link | Click on icon | Social link opens on new page |
-| **Required form fields** | If the text boxes are left blank, they will highlight with the message | Incomplete form | Form does not submit and highlights empty boxes|
-| **Form submit button** | When the submit button is pressed, the form submits| Complete form | Thank you page opens 
-
-[Back to Top](#role-model-dogs)
 
 #### **Debugging:**
-The responsiveness of the website was challenging in general. The class day and times page was particularly difficult to position on page. The social media icons would appear invisible in the bottom footer on all pages. This was resolved by creating a pexels.com account. Devs tools and the application "Am I responsive?" helped to visualize and resolve issues associated with using different screen sizes to display media. The website was launched in different browsers such as Chrome, Firefox and Microsoft Edge. Throughout the entire development, the website was tested in each phase.
+Debugging was difficult with regards to the Javascript code working correcting to display my end result.
 
 ## Deployment
 The project was deployed to GitHub Pages using the following steps:
 1. In the GitHub repository, navigate to the Settings tab.
 2. From the source section drop-down menu, select the Master Branch.
 3. Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-4. The live link can be found [HERE - Role Model Dogs](https://pavoni1978.github.io/Role-Model-Dogs/index.html)
+4. The live link can be found [HERE - My BMI Checker](https://pavoni1978.github.io/My-BMI-Checker/)
 
 #### **Commits:**
-Some of the commits messages are not as precise as I would have wanted them to be. Did not find it easy to learn the GitHub, GitPod databasis. Looking forward to migrating to Code Anywhere for my portfolio two project.
-[Back to Top](#role-model-dogs)
+Still working on some of my commits messages as many are not as precise as I would have wanted them to be. I do find committing everthing very frustrating when trying to get code to work. Did not find it easy to learn the Codeanywhere and GitHub databasis. Had to migrate to Codeanywhere for this project. I do however prefer Codeanywhere.
+
 
 ## Credits
 
-#### **Content:**
-- The content for the website was created by me and address of training centre and qualifications are all fictional.
 #### **Media:**
-- The images used on the website were all obtained in Pexels.com. (#https://www.pexels.com)
-
-## Acknowledgements
-
-- Martina Terlevic: My mentor, for all their guidance and expertise. 
-- Code Institute for their support.
-- My wife and daughter for all the support and time away it took to firstly study and then create this website.
-
-[Back to Top](#role-model-dogs)
+- The images used on the website were all obtained in Google Images.com. (https://images.google.com/)
