@@ -46,7 +46,7 @@ body {
 
 /* --------- Buttons */
 
-.btn {
+#btn {
     width: 25%;
     height: 25%;
     font-family: "Arial", sans-serif; 
