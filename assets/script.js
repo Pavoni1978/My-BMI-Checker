@@ -7,9 +7,9 @@ var height = parseInt (document.getElementById(height).value);
 
 document.getElementById (height-val).textContent = height + "cm";
 
-var result = parseInt (document.getElementById ("result").value);               
+var result = parseInt (document.getElementById (result).value);               
 
-document.getElementById = ("btn").addEventListener("click", displayvarresultnumber);
+document.getElementById = (btn).addEventListener(click, displayvarresultnumber);
 
  (result); {
      (((weight / ((height * height)
