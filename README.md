@@ -49,7 +49,7 @@ Two graphs are provided for men and women to assess your score.
     - Codeanywhere was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 2. [GitHub]():
     - GitHub is used to store the project's code after being pushed from Git.
-4. [Am I responsive?](https://ui.dev/amiresponsive?url=https%3A%2F%2Fbytes.dev):
+4. [Am I responsive?](https://ui.dev/amiresponsive?url=https://pavoni1978.github.io/My-BMI-Checker/):
     - This application was used for visualization of responsiveness.
    ![Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607183/amiresponsive_mrppyr.png)
 5. [Google Images](https://cloudinary.com/):
@@ -61,10 +61,11 @@ Two graphs are provided for men and women to assess your score.
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 - [W3C Markup Validator - Results]()
 - [W3C CSS Validator - Results]()
+- [W3C JavaScript Validator]()
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
-![Lighthouse]()
+![Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fpavoni1978.github.io%2FMy-BMI-Checker%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
 
 
 #### **Debugging:**
