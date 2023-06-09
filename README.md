@@ -30,7 +30,7 @@ This is a website for people to easily calculate their body mass index without t
 #### **Colour Scheme:**
 - The main colours used are in a beige and light grey scale. The text is pulled forward from the background, assisting legibility. These colours also compliment the illustration and photographic resources on the website highlighted with a 2px black border. The black text on light grey background makes for easy reading on all platforms. Hence the main input field and results section is in light grey.
 
-- [Webpage](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686320269/portfolio%20two/Webpage_oihu47.png)
+- ![Webpage](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686320269/portfolio%20two/Webpage_oihu47.png)
 
 #### **Typography:**
 - The Arial font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The website header also uses Arial font with sans-serif as backup. This creates a nice consistancy throughout the site for easy reading on all devices.
