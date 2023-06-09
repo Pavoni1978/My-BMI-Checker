@@ -6,7 +6,7 @@ var height = parseInt (document.getElementById(height).value);
 
 document.getElementById (height-val).textContent = height + "cm";
 
-var result = document.getElementById = ("btn").addEventListener("click", displayBMI);
+document.getElementById = ("btn").addEventListener("click", displayBMI);
 
  var result= ("Your BMI"); {
      (((weight / ((height * height)
