@@ -12,10 +12,9 @@ btn.addEventListener("click",Get My BMI);
 
 function (Get My BMI);{
     console.log("Your BMI")
-    alert("Your BMI")
+    alert("click")
 
 }
-
  result= ("click"); {
      (((weight / ((height * height)
 /10000)).toFixed(2)));
