@@ -53,7 +53,7 @@ Two graphs are provided for men and women to assess your score.
     - GitHub is used to store the project's code after being pushed from codeanywhere.
 4. [Am I responsive?](https://ui.dev/amiresponsive?url=https://pavoni1978.github.io/My-BMI-Checker/):
     - This application was used for visualization of responsiveness.
-   ![Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1682607183/amiresponsive_mrppyr.png)
+   ![Site view across devices](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686336163/portfolio%20two/am_I_responsive_ruasz4.png)
 5. [Google Images]():
     - Google Images was used to download the images to Codeanywhere.
 6. [Cloudinary](https://cloudinary.com/)
