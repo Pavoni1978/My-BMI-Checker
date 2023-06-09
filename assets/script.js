@@ -11,7 +11,7 @@ let myButton = document.getElementById("btn");
 myButton.addEventListener("click","Get My BMI"
 );
 
-function best(){
+function click(btn){
     console.log("click")
     alert("Your BMI")
 
