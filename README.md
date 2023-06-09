@@ -65,7 +65,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
-![Lighthouse](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Fpavoni1978.github.io%2FMy-BMI-Checker%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+![Lighthouse](h)
 
 
 #### **Debugging:**
