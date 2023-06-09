@@ -6,16 +6,17 @@ var height = parseInt(document.getElementById(height).value);
 
 document.getElementById(height-val).textContent = height + "cm";
 
-let myButton = document.getElementById("btn");
+let btn = document.getElementById("btn");
 
-myButton.addEventListener("click","Get My BMI"
-);
+btn.addEventListener("click","Get My BMI");
 
-function click(btn){
-    console.log("click")
-    alert("Your BMI")
+function ("btn");{
+    console.log("Your BMI")
+    alert("click")
 
- result= ("Your BMI"); {
+}
+
+ result= ("click"); {
      (((weight / ((height * height)
 /10000)).toFixed(2)));
  }
