@@ -1,4 +1,3 @@
-
 var weight = parseInt (document.getElementById (weight).value);
 
 document.getElementById(weight-val).textContent = weight + "kg";
@@ -9,7 +8,7 @@ document.getElementById (height-val).textContent = height + "cm";
 
 var result = document.getElementById = ("btn").addEventListener("click", displayBMI);
 
- ("Your BMI"); {
+ var result= ("Your BMI"); {
      (((weight / ((height * height)
 /10000)).toFixed(2)));
 
