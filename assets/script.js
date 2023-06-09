@@ -12,7 +12,7 @@ btn.addEventListener("click",GET MY BMI);
 
 function (GET MY BMI);{
     console.log("Your BMI")
-    alert("click")
+    alert("Your BMI")
 
 }
  result= ("click"); {
