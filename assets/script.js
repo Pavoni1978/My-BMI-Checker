@@ -15,7 +15,7 @@ function btn (click);{
     alert("Your BMI");
 
 }
- function result() {
+ function btn() {
      (((weight / ((height * height)
 /10000)).toFixed(2)));
  }
