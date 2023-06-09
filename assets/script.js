@@ -8,9 +8,9 @@ document.getElementById(height-val).textContent = height + "cm";
 
 let myButton = document.getElementById("btn");
 
-btn.addEventListener("click",Get My BMI);
+btn.addEventListener("click",GET MY BMI);
 
-function (Get My BMI);{
+function (GET MY BMI);{
     console.log("Your BMI")
     alert("click")
 
