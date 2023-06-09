@@ -8,14 +8,14 @@ document.getElementById(height-val).textContent = height + "cm";
 
 let myButton = document.getElementById("btn");
 
-btn.addEventListener("click",GET MY BMI);
+btn.addEventListener("click",GET-MY-BMI);
 
-function (GET MY BMI);{
+function btn (click);{
     console.log("Your BMI")
-    alert("Your BMI")
+    alert("Your BMI");
 
 }
- result= ("click"); {
+ result= ("Your BMI"); {
      (((weight / ((height * height)
 /10000)).toFixed(2)));
  }
