@@ -15,7 +15,7 @@ myButton.addEventListener("click",Get My BMI
 
 function best(){
     console.log("Get My BMI")
-    alert("Your BMI")
+    alert("Your BMI"
 
  var result= ("Your BMI"); {
      (((weight / ((height * height)
