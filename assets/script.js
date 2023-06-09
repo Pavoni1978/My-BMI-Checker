@@ -6,13 +6,13 @@ var height = parseInt(document.getElementById(height).value);
 
 document.getElementById(height-val).textContent = height + "cm";
 
-let btn = document.getElementById("btn");
+let myButton = document.getElementById("btn");
 
-btn.addEventListener("click","Get My BMI");
+btn.addEventListener("click",Get My BMI);
 
-function ("btn");{
+function (Get My BMI);{
     console.log("Your BMI")
-    alert("click")
+    alert("Your BMI")
 
 }
 
