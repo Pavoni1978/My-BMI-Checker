@@ -63,7 +63,7 @@ Two graphs are provided for men and women to assess your score.
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator - Results]()
+- [W3C Markup Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686321901/portfolio%20two/wc3_html_kg9kxw.png)
 - [W3C CSS Validator - Results]()
 - [W3C JavaScript Validator]()
 
