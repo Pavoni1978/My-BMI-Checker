@@ -11,7 +11,7 @@ let btn = document.getElementById("btn");
 btn.addEventListener("click",GET-MY-BMI);
 
 function btn ();{
-    console.log("Your BMI")
+    console.log("result")
     alert("click");
 
 }
@@ -20,6 +20,6 @@ function btn ();{
 /10000)).toFixed(2)));
  }
 
- function btn() {
-    document.getElementById("btn").innerHTML = "GET MY BMI";
+ function result() {
+    document.getElementById("result").innerHTML = "Your BMI";
   }
