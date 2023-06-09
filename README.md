@@ -63,8 +63,8 @@ Two graphs are provided for men and women to assess your score.
 
 #### **Validator Testing:**
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686321901/portfolio%20two/wc3_html_kg9kxw.png)
-- [W3C CSS Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686334060/portfolio%20two/CSS_Validator_ypchzt.png)
+- ![W3C Markup Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686321901/portfolio%20two/wc3_html_kg9kxw.png)
+- ![W3C CSS Validator - Results](https://res.cloudinary.com/dawzrhuaf/image/upload/v1686334060/portfolio%20two/CSS_Validator_ypchzt.png)
 
 The website was also tested through Lighthouse on Chrome for its Accessibility Score.
 
